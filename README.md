@@ -3,10 +3,12 @@
  <hr>
  <h3>Cybersecurity Analyst</h3>
 
-Contact me
+<p>Contact me</p>
 [LinkedIn](https://www.linkedin.com/in/tawsifhye) || [Email](tawsifulhye@gmail.com) 
 
-<table style="border-collapse: collapse;">
+<h3>Skills</h3>
+
+<table style="border: 0;">
   <tr>
     <td style="border: none; padding: 8px;">
         <ul>
