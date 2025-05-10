@@ -5,7 +5,7 @@ Contact me
 [LinkedIn](https://www.linkedin.com/in/tawsifhye) || [Email](tawsifulhye@gmail.com) 
 
 ### Skills 
-
+| Skills / Topics                 | Skills / Topics               |
 |--------------------------------|-------------------------------|
 | Threats, risks, and vulnerabilities | SIEM tools                    |
 | SQL                            | Incident response             |
