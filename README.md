@@ -4,13 +4,17 @@
 Contact me
 [LinkedIn](https://www.linkedin.com/in/tawsifhye) || [Email](tawsifulhye@gmail.com) 
 
-#### Skills 
+### Skills 
 
-| - Threats, risks, and vulnerabilities    | Cell 2   |
-| - Incident response                                   | Cell 4   |
-| - Security framework and controls
-| - Security hardening
-| - SIEM tools
+|--------------------------------|-------------------------------|
+| Threats, risks, and vulnerabilities | SIEM tools                    |
+| SQL                            | Incident response             |
+| Linux CLI                      | Git                           |
+| Security framework and controls| Bash/Python                   |
+| PHP/JavaScript                 | Security hardening            |
+| Troubleshooting Skills         | IT Operations Management      |
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawsifhye&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
