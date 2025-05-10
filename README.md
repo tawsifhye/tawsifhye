@@ -5,14 +5,12 @@ Contact me
 [LinkedIn](https://www.linkedin.com/in/tawsifhye) || [Email](tawsifulhye@gmail.com) 
 
 ### Skills 
-| Skills / Topics                 | Skills / Topics               |
-|--------------------------------|-------------------------------|
-| Threats, risks, and vulnerabilities | SIEM tools                    |
-| SQL                            | Incident response             |
-| Linux CLI                      | Git                           |
-| Security framework and controls| Bash/Python                   |
-| PHP/JavaScript                 | Security hardening            |
-| Troubleshooting Skills         | IT Operations Management      |
+- Threats, risks, and vulnerabilities        - SIEM tools  
+- SQL                                        - Incident response  
+- Linux CLI                                  - Git  
+- Security framework and controls            - Bash/Python  
+- PHP/JavaScript                             - Security hardening  
+- Troubleshooting Skills                     - IT Operations Management  
 
 
 
