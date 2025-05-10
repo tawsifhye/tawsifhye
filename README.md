@@ -8,17 +8,7 @@
 <p>Contact me</p>
 [LinkedIn](https://www.linkedin.com/in/tawsifhye) || [Email](tawsifulhye@gmail.com) 
 
-<h3>Skills</h3>
-
-<span
-    style=" background-color: #89CFF0;       
-    color: #1a1a1a;                  
-    border: 2px solid #2e2eb8;        
-    border-radius: 20px;            
-    padding: 8px 16px;               
-    font-size: 18px;                   
-    font-weight: bold; ">
-Threats, risks, and vulnerabilities</span>              
+<h3>Skills</h3>          
 
 <table style="border: none;">
   <tr>
