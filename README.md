@@ -1,4 +1,6 @@
 
+
+
  <h2> Hi there I'm Tawsif </h2>
  <hr>
  <h3>Cybersecurity Analyst</h3>
@@ -7,6 +9,19 @@
 [LinkedIn](https://www.linkedin.com/in/tawsifhye) || [Email](tawsifulhye@gmail.com) 
 
 <h3>Skills</h3>
+
+<span
+    style="
+    background-color: #89CFF0;       
+    color: #1a1a1a;                  
+    border: 2px solid #2e2eb8;        
+    border-radius: 20px;            
+    padding: 8px 16px;               
+    font-size: 18px;                   
+    font-weight: bold; 
+    "
+>
+Threats, risks, and vulnerabilities</span>              
 
 <table style="border: none;">
   <tr>
