@@ -18,9 +18,7 @@
     border-radius: 20px;            
     padding: 8px 16px;               
     font-size: 18px;                   
-    font-weight: bold; 
-    "
->
+    font-weight: bold; ">
 Threats, risks, and vulnerabilities</span>              
 
 <table style="border: none;">
