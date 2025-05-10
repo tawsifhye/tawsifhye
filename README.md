@@ -2,7 +2,7 @@
 
 
  <h2> Hi there I'm Tawsif </h2>
- <hr>
+
  <h3>Cybersecurity Analyst</h3>
 
 <p>Contact me</p>
@@ -35,6 +35,7 @@
   </tr>
 </table>
 
+<h3>Projects</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawsifhye&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
