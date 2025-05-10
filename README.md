@@ -11,8 +11,7 @@
 <h3>Skills</h3>
 
 <span
-    style="
-    background-color: #89CFF0;       
+    style=" background-color: #89CFF0;       
     color: #1a1a1a;                  
     border: 2px solid #2e2eb8;        
     border-radius: 20px;            
