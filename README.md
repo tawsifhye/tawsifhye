@@ -40,7 +40,7 @@
 
 <b>
 
- [Vulnerability Assessment on Metasploitable](https://github.com/tawsifhye/Vulnerability_Assessment_Metasploitable) 
+- [Vulnerability Assessment on Metasploitable](https://github.com/tawsifhye/Vulnerability_Assessment_Metasploitable) 
 
 </b>
 
