@@ -8,7 +8,7 @@
 
 <h3>Skills</h3>
 
-<table  cellspacing="0" cellpadding="0">
+<table style="border: none;">
   <tr>
     <td style="border: none; padding: 8px;">
         <ul>
