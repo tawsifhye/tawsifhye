@@ -9,7 +9,7 @@
 
 <b>
 
-- <a href="linkedin.com/in/tawsifhye"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000">linkedin.com/in/tawsifhye</a> 
+- <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"><a href="linkedin.com/in/tawsifhye">linkedin.com/in/tawsifhye</a> 
 
 </b>
 
