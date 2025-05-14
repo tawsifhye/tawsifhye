@@ -7,7 +7,17 @@
 
 <p>Contact me</p>
 
-[LinkedIn](https://www.linkedin.com/in/tawsifhye) || [Email](tawsifulhye@gmail.com) 
+<b>
+
+- <a href="linkedin.com/in/tawsifhye"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000">linkedin.com/in/tawsifhye</a> 
+
+</b>
+
+<b>
+
+- 📩tawsifulhye@gmail.com
+
+</b>
 
 <h3>🧰Skills</h3>          
 
