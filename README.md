@@ -44,6 +44,32 @@
 
 </b>
 
+<b>
+
+- [Vulnerability Assessment on Metasploitable](https://github.com/tawsifhye/Vulnerability_Assessment_Metasploitable) 
+
+</b>
+<h3>🏆Achievements</h3>
+
+<b>
+
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/HPCGAR04IW0Y) 
+
+</b>
+
+<b>
+
+- [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/MohammadTawsifUlHyeChowdhury-9540/6387972EC17D4612?sharingId=68B4B57714DC9789) 
+
+</b>
+
+
+<b>
+
+- [Cisco Certified Network Associate (CCNA)](https://www.youracclaim.com/badges/17f69f52-d7ec-4cef-ae6a-557fe6a07d94/linked_in_profile) 
+
+</b>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawsifhye&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=tawsifhye&style=flat-square) -->
