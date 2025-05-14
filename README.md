@@ -1,15 +1,15 @@
 
 
 
- <h2> Hi there I'm Tawsif </h2>
+ <h2> Hi there I'm Tawsif 👋 </h2>
 
- <h3>Cybersecurity Analyst</h3>
+ <h3>🛡️Cybersecurity Analyst</h3>
 
 <p>Contact me</p>
 
 [LinkedIn](https://www.linkedin.com/in/tawsifhye) || [Email](tawsifulhye@gmail.com) 
 
-<h3>Skills</h3>          
+<h3>🧰Skills</h3>          
 
 <table style="border: none;">
   <tr>
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-<h3>Projects</h3>
+<h3>📝Projects</h3>
 
 <b>
 
@@ -46,7 +46,6 @@
 
 <b>
 
-- [Vulnerability Assessment on Metasploitable](https://github.com/tawsifhye/Vulnerability_Assessment_Metasploitable) 
 
 </b>
 <h3>🏆Achievements</h3>
