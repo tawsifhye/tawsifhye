@@ -9,7 +9,7 @@
 
 <b>
 
-- <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="30" height="30"><a href="linkedin.com/in/tawsifhye">linkedin.com/in/tawsifhye</a> 
+- <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="20" height="20" style="margin-bottom: -5px"><a href="linkedin.com/in/tawsifhye">linkedin.com/in/tawsifhye</a> 
 
 </b>
 
